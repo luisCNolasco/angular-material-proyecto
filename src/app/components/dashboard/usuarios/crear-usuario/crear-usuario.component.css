@@ -1,0 +1,8 @@
+.ancho{
+    width: 80%;
+}
+.formulario{
+    display: flex;
+    width: 100%;
+    height: 80%;
+}
